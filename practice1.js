@@ -1,0 +1,5 @@
+console.log("My name is Bora")
+console.log("I am 24")
+console.log("I live in Kenya")
+console.log("I like chapo and beans")
+console.log("I'm learning JS so I can actually build stuff")
